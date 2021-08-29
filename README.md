@@ -7,6 +7,9 @@ Certified in multiple tools, technologies and agile processes, I write and share
 
 ## &#x270d; Blog & Writing
 
+[![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshsharma87)](https://github.com/yogeshsharma87/github-readme-stats)
+
+
 ---- Coming Soon 🙂
 
 
