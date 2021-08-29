@@ -5,12 +5,6 @@ My name is Yogesh and I'm a software professional. I have a passion for learning
 
 Certified in multiple tools, technologies and agile processes, I write and share what I am familiar with and like boyscout rule.
 
-
-
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshsharma87&count_private=true)
-
-
-
 ## &#x270d; Blog & Writing
 
 ---- Coming Soon 🙂
